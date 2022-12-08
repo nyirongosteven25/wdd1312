@@ -40,11 +40,11 @@ nav a:hover{
     color: yellow;
 }
 .book, .join{
-    background-color: black;
+    background-color: rgb(17, 172, 55);
     color: white;
 }
 .book:hover, .join:hover{
-    background-color: #1af08c;
+    background-color: #1ff50c;
     color: white;
 }
 
