@@ -26,28 +26,53 @@ main section{
 
 #background {
     height: 725px;
-    background-color: white
+    background-color: white;
 }
 
 body{
     background-color: white; 
 }
 header{
-    background-color:black
+    background-color:black;
 }
 nav a:hover{
     background-color:#1AF0E9;
+    color: yellow;
 }
 .book, .join{
-    background-color: black
+    background-color: black;
+    color: white;
 }
 .book:hover, .join:hover{
-    background-color: #1AF0E9;
+    background-color: #1af08c;
+    color: white;
 }
 
 .msg{
-    background-color:white
+    background-color:white;
 }
 footer{
-    background-color: black
+    background-color: rgb(53, 40, 40);
+    color: white;
+}
+
+.home-title{
+    color: white;
+}
+h4{
+    color: black;
+}
+    
+msg h2{
+color:black;
+}
+.msg p{
+    color:black;
+}
+
+footer a{
+    color:aquamarine;
+}
+footer a:hover{
+    color:cornflowerblue;
 }
