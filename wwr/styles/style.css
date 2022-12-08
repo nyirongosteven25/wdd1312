@@ -36,11 +36,11 @@ header{
     background-color:black;
 }
 nav a:hover{
-    background-color:#1AF0E9;
-    color: yellow;
+    background-color:#396fe4;
+    color: rgb(243, 243, 236);
 }
 .book, .join{
-    background-color: rgb(17, 172, 55);
+    background-color: rgba(234, 239, 243, 0.918);
     color: white;
 }
 .book:hover, .join:hover{
@@ -71,7 +71,7 @@ color:black;
 }
 
 footer a{
-    color:aquamarine;
+    color:rgb(31, 228, 5);
 }
 footer a:hover{
     color:cornflowerblue;
